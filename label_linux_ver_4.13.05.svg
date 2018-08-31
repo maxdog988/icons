@@ -1,3 +1,9 @@
+<!--
+Notice Github disables rendering svg to avoid cross site scripting attack.
+refer to : https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown 
+we need a relay which gives proper content type, like 
+visit https://rawgit.com/ to get a relayed url for svg images.
+-->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
