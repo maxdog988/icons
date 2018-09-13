@@ -4,13 +4,13 @@ refer to : https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on
 we need a relay which gives proper content type, like 
 visit https://rawgit.com/ to get a relayed url for svg images.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
     </linearGradient>
     <clipPath id="a">
-        <rect width="90" height="20" rx="3" fill="#fff"/>
+        <rect width="95" height="20" rx="3" fill="#fff"/>
     </clipPath>
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h60v20H0z"/>
