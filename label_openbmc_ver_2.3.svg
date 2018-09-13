@@ -4,7 +4,7 @@ refer to : https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on
 we need a relay which gives proper content type, like 
 visit https://rawgit.com/ to get a relayed url for svg images.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
@@ -37,7 +37,7 @@ visit https://rawgit.com/ to get a relayed url for svg images.
         -->
         <text x="300" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">openbmc </text>
         <text x="300" y="140" transform="scale(.1)">openbmc </text>
-        <text x="810" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">master</text>
-        <text x="810" y="140" transform="scale(.1)">master</text>
+        <text x="800" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">master</text>
+        <text x="800" y="140" transform="scale(.1)">master</text>
     </g> 
 </svg>
