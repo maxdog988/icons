@@ -27,8 +27,8 @@ visit https://rawgit.com/ to get a relayed url for svg images.
 
             <text x="40" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">openbmc</text>
             <text x="40" y="140" transform="scale(.1)">openbmc</text>
-            <text x="640" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">2.3</text>
-            <text x="640" y="140" transform="scale(.1)">2.3</text>
+            <text x="640" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">master</text>
+            <text x="640" y="140" transform="scale(.1)">master</text>
 
         if middle-aligned :
             text 1 should be drawn centered at 300,100, base point = 300, 150
