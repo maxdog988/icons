@@ -35,8 +35,8 @@ visit https://rawgit.com/ to get a relayed url for svg images.
             text 2 should be drawn centered at 750,100, base point = 750, 150
         the first line to draw shadow and the 2nd line draw front text.
         -->
-        <text x="300" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">openbmc</text>
-        <text x="300" y="140" transform="scale(.1)">openbmc</text>
+        <text x="300" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">openbmc </text>
+        <text x="300" y="140" transform="scale(.1)">openbmc </text>
         <text x="750" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">master</text>
         <text x="750" y="140" transform="scale(.1)">master</text>
     </g> 
