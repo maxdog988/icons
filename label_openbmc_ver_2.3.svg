@@ -17,7 +17,7 @@ visit https://rawgit.com/ to get a relayed url for svg images.
         <path fill="#4183C4" d="M60 0h30v20H60z"/>
         <path fill="url(#b)" d="M0 0h90v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110"> 
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="220"> 
         <!-- 
         for 60 + 30 icon, after unscaled, it becomes 600 + 300.
         with font size as 110, take it as 120, margin as 200-120 / 2 = 80/2 = 40
