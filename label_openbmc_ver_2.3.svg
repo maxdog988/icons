@@ -14,7 +14,7 @@ visit https://rawgit.com/ to get a relayed url for svg images.
     </clipPath>
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h60v20H0z"/>
-        <path fill="#4183C4" d="M60 0h30v20H60z"/>
+        <path fill="#4183C4" d="M60 0h40v20H60z"/>
         <path fill="url(#b)" d="M0 0h90v20H0z"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110"> 
