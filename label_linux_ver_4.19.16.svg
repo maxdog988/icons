@@ -30,6 +30,6 @@ visit https://rawgit.com/ to get a relayed url for svg images.
         <text x="200" y="140" transform="scale(.1)">linux</text>
         <text x="650" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">4.
             .05</text>
-        <text x="650" y="140" transform="scale(.1)">4.17.04</text>
+        <text x="650" y="140" transform="scale(.1)">4.19.16</text>
     </g> 
 </svg>
